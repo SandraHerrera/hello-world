@@ -2,4 +2,4 @@
 A tutorial repositary
 
 Hello World,
-Im Sandra a compsci major
+I'm Sandra, a computer science major
